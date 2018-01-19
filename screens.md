@@ -10,16 +10,16 @@
 -  Valgt spil vises
     - Titel
     - Grafik eller farve fra vælger skærm
-    *- Knap (Start spil)*
+    - *Knap (Start spil)*
 
 ## Indskriv deltagere (gamemaster)
 - Game PIN
 - Liste over deltagere der er indskrevet
-*- Knap (Start spil)*
+- *Knap (Start spil)*
 
 ## Deltag i spil (deltager)
 - Game PIN input
-*- Knap (start spil)*
+- *Knap (start spil)*
 
 
 ## Spgm (gamemaster)
@@ -29,7 +29,7 @@
 
 ## Svar (deltager)
 - Spørgsmål der skal svares på
-*- 4 knapper en for hver svarmulighed samme farve som muligheder på gamemaster skærm.*
+- *4 knapper en for hver svarmulighed samme farve som muligheder på gamemaster skærm.*
 
 ## Resultat efter alle har svaret
 
@@ -38,6 +38,6 @@
 - Tabel med 10 rækker
     - Navn på spiller
     - Score
-- Knap til at loade flere rækker
+- *Knap til at loade flere rækker*
 
 
