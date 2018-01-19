@@ -10,7 +10,7 @@
 -  Valgt spil vises
     - Titel
     - Grafik eller farve fra vælger skærm
-    - *Knap (Start spil)*
+- *Knap (Start spil)*
 
 ## Indskriv deltagere (gamemaster)
 - Game PIN
