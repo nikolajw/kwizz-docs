@@ -1,11 +1,26 @@
 # Screens
 
-## Highscores
-- Overskrift
-- Tabel med 10 rækker
-    - Navn på spiller
-    - Score
-- Knap til at loade flere rækker
+## Vælg spil (gamemaster)
+- Søgeboks og knap
+- Grid view med spil. Et element for hvert spil
+    - Titel på spil
+    - Spilgrafik som baggrund / Eller fuldfarvet hvis ingen billede
+
+## Start spil (gamemaster)
+-  Valgt spil vises
+    - Titel
+    - Grafik eller farve fra vælger skærm
+    *- Knap (Start spil)*
+
+## Indskriv deltagere (gamemaster)
+- Game PIN
+- Liste over deltagere der er indskrevet
+*- Knap (Start spil)*
+
+## Deltag i spil (deltager)
+- Game PIN input
+*- Knap (start spil)*
+
 
 ## Spgm (gamemaster)
 - Nummer i sekvens
@@ -14,14 +29,15 @@
 
 ## Svar (deltager)
 - Spørgsmål der skal svares på
-- 4 knapper en for hver svarmulighed samme farve som muligheder på gamemaster skærm.
+*- 4 knapper en for hver svarmulighed samme farve som muligheder på gamemaster skærm.*
 
-## Start spil (deltager)
-- Titel (Kwizz)
-- Input til game pin
-- Knap til at starte
+## Resultat efter alle har svaret
 
-## Start spil (gamemaster)
-
+## Highscores
+- Overskrift
+- Tabel med 10 rækker
+    - Navn på spiller
+    - Score
+- Knap til at loade flere rækker
 
 
